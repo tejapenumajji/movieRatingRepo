@@ -2,7 +2,7 @@
 
 This application is packaged as a war which has Tomcat 8 embedded.
 
-Used H2 in-memory data base to store the data.
+Used H2 in-memory my data base to store the data.
 
 ### Rest services end points for movie rating.
 
